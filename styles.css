@@ -25,3 +25,16 @@ section {
     text-align: left;
     font-size: 18;
    }
+   button{
+    padding: 0.5em 1em;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;  
+   }
+   button:hover{
+    background-color: #555;
+    
+   }
+   
